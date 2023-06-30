@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ejercicio12</string>
+    <string name="food_reference">food reference</string>
+    <string name="bienvenido_a_el_rapido">Bienvenido a El Rapido</string>
+    <string name="ir_al_menu">IR AL MENU</string>
+</resources>
